@@ -1,0 +1,6 @@
+name: CustomItems
+main: org.github.rileycalhoundev.customitems.CustomItems
+author: [Riley]
+version: 1.0
+api-version: 1.16
+description: Put custom crafting recipes into the game
